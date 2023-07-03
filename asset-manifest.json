@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abccbb7f.css",
+    "main.js": "/static/js/main.e4f187df.js",
+    "static/js/787.097afb99.chunk.js": "/static/js/787.097afb99.chunk.js",
+    "static/media/background-2.jpg": "/static/media/background-2.99a4147270be89c952bb.jpg",
+    "static/media/background2.jpg": "/static/media/background2.665ae8cb63bd0ded45e1.jpg",
+    "static/media/Tangerine-Bold.ttf": "/static/media/Tangerine-Bold.290f181679aa2ef327e4.ttf",
+    "static/media/Tangerine-Regular.ttf": "/static/media/Tangerine-Regular.6b04eb83dd71e2762243.ttf",
+    "index.html": "/index.html",
+    "main.abccbb7f.css.map": "/static/css/main.abccbb7f.css.map",
+    "main.e4f187df.js.map": "/static/js/main.e4f187df.js.map",
+    "787.097afb99.chunk.js.map": "/static/js/787.097afb99.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abccbb7f.css",
+    "static/js/main.e4f187df.js"
+  ]
+}
